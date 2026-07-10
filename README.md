@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a computer engineering undergraduate student focusing on both hardware and software development. Currently learning embedded systems, digital design, and machine learning. I have a passion for problem-solving and implementing new innovative technologies. A fast learner who adapts quickly to new advancements, I thrive in dynamic environments and bring dedication and creativity to every project.
+I am a computer engineering graduate focusing on both hardware and software development. Currently learning embedded systems, digital design, and machine learning. I have a passion for problem-solving and implementing new innovative technologies. A fast learner who adapts quickly to new advancements, I thrive in dynamic environments and bring dedication and creativity to every project.
 
 
 ## 🌐 Socials:
