@@ -10,8 +10,8 @@
 
 ### 🚀 About Me
 
-🔭 &nbsp;I'm currently working on **Setting a Linux OS on my old phone**  
-🌱 &nbsp;I'm currently learning **PostgreSQL, Docker, Web Development**  
+🔭 &nbsp;I'm currently working on **Making an anime recommender website**  
+🌱 &nbsp;I'm currently learning **Javascript, API Calls, Web Development**  
 ⚡ &nbsp;Fun fact: **I learned unit testing in less than a week for an intern role**
 
 ### 🛠️ Tech Stack
