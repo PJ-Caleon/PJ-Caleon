@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=f778ba&center=true&vCenter=true&width=385&height=44&lines=Enjoy%20today's%20success;Build%20tomorrow's%20future" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=f778ba&center=true&vCenter=true&width=385&height=44&lines=Pineapple%20pizza%20;is%20the%20best" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
