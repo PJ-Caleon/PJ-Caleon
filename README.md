@@ -10,9 +10,9 @@
 
 ### 🚀 About Me
 
-🔭 &nbsp;I'm currently working on **Making an anime recommender website**  
+🔭 &nbsp;I'm currently working on **1 Month mentorship training for Javascript job**  
 🌱 &nbsp;I'm currently learning **Javascript, API Calls, Web Development and IoT Development**  
-⚡ &nbsp;Fun fact: **I learned unit testing in less than a week for an intern role**
+⚡ &nbsp;Previous Project Finished: **[Ani.Search (Anime Recommender)](https://github.com/PJ-Caleon/Anime_Recommender)**
 
 ### 🛠️ Tech Stack
 
