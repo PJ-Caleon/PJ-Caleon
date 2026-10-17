@@ -10,8 +10,7 @@
 
 ### 🚀 About Me
 
-🔭 &nbsp;I'm currently working on the **30-Day Embedded Software Roadmap (STM32)** — **Day 0/30**   
-⚡ &nbsp;Previous Project Finished: **[Ani.Search (Anime Recommender)](https://github.com/PJ-Caleon/Anime_Recommender)**
+🔭 &nbsp;I'm currently working on the **30-Day Embedded Software Roadmap (STM32)** — **Day 1/30**   
 
 ### 🛠️ Tech Stack
 
