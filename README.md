@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/PJ-Caleon">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=eb6f92&fontSize=54&height=90&width=1050&text=Hello!%20I'm%20a%20Computer%20Engineer" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=eb6f92&fontSize=54&height=90&width=1050&text=Goedendag!" />
   </a>
 </p>
 
