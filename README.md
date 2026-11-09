@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-🔭 &nbsp;I'm currently working on the **30-Day Embedded Software Roadmap (STM32)** — **Day 25/30**   
+🔭 &nbsp;I'm currently planning a new embedded project  
 
 ### 🛠️ Tech Stack
 
